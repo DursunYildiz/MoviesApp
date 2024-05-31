@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Movies.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Kits"
+      name = "Kits">
+      <FileRef
+         location = "group:MockKit/MockKit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:NetworkKit/NetworkKit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:UtilsKit/UtilsKit.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>

@@ -1,0 +1,27 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Error" : {
+
+    },
+    "No filter results" : {
+
+    },
+    "OK" : {
+
+    },
+    "Release Date: %@" : {
+
+    },
+    "Some times wrong try again" : {
+
+    },
+    "Unknown error" : {
+
+    },
+    "Vote Count: " : {
+
+    }
+  },
+  "version" : "1.0"
+}
