@@ -22,14 +22,18 @@ To install Tuist:
 
 ```sh
 bash <(curl -Ls https://install.tuist.io)
-
+```
 
 Installation
 Clone the repository and install dependencies:
+```sh
 git clone https://github.com/DursunYildiz/MoviesApp.git
 cd MoviesApp
 tuist generate
+```
 
 Usage
 Navigate to the project directory and use Tuist to open the project in Xcode:
+```sh
 tuist generate
+```
